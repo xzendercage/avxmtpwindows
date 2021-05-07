@@ -13,7 +13,7 @@
 
 **First Step**
 ----------
-# Paste your combo in the install DIR of AVXMTP then just run the programme after install
+# Paste your combo in the install DIR of AVXMTP then, just run the Tool after install
 ----------
 <h2><h2>Screenshot</h2></h2>
 <img src="https://telegra.ph/file/c8524658d41646644e465.jpg" style="max-width:100%;">
